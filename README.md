@@ -54,6 +54,9 @@ rustc --version
 - 💻 **Simple CLI**: Easy to use command-line tool
 - 📝 **Multiple Output Formats**: Human-readable or JSON
 
+## License
+GNU General Public License v3.0
+
 ## Installation
 
 ### 1. Install/Update Rust
