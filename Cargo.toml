@@ -1,0 +1,20 @@
+[package]
+name = "wappalyzer-rust"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "wappalyzer_rust"
+path = "src/lib.rs"
+
+[[bin]]
+name = "wappalyzer-rust"
+path = "src/main.rs"
+
+[dependencies]
+ureq = { version = "2.9", features = ["cookies"] }
+scraper = "0.15"
+regex = "1.7"
+serde = { version = "1.0.188", features = ["derive"] }
+serde_json = "1.0.107"
+anyhow = "1.0.75"

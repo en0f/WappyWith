@@ -1,0 +1,1 @@
+/Users/fcatucci/Downloads/wapp-rust/target/debug/libwappalyzer_rust.rlib: /Users/fcatucci/Downloads/wapp-rust/src/detector.rs /Users/fcatucci/Downloads/wapp-rust/src/lib.rs /Users/fcatucci/Downloads/wapp-rust/src/technologies.rs
