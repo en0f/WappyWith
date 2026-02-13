@@ -238,10 +238,6 @@ cargo test -- --nocapture  # With output
 - Cookie detection limited to Set-Cookie headers
 - Version detection depends on patterns in the HTML/headers
 
-## License
-
-Educational implementation inspired by Wappalyzer.
-
 ## Contributing
 
 Contributions welcome:
@@ -250,8 +246,3 @@ Contributions welcome:
 - Add more detection methods
 - Optimize performance
 
-## Resources
-
-- [Wappalyzer](https://www.wappalyzer.com/)
-- [Rust Book](https://doc.rust-lang.org/book/)
-- [Regex Syntax](https://docs.rs/regex/latest/regex/#syntax)
